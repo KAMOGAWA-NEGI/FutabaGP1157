@@ -1,0 +1,11 @@
+FutabaGP1157	KEYWORD1
+GP1157	KEYWORD1
+setCursor	KEYWORD2
+setBrightness	KEYWORD2
+setBold	KEYWORD2
+setScale	KEYWORD2
+setText16Mode	KEYWORD2
+setText32Mode	KEYWORD2
+setHorizontalScrollMode	KEYWORD2
+printAt16	KEYWORD2
+printAt32	KEYWORD2
